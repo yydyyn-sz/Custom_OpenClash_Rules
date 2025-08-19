@@ -32,4 +32,6 @@ DOMAIN-SUFFIX,95504test.com
 DOMAIN-SUFFIX,pool.ntp.org
 # 赛默飞
 DOMAIN-SUFFIX,thermofisher.com
+# 南科大cra
+DOMAIN-SUFFIX,cra.moe
 
