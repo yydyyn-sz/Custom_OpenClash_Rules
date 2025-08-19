@@ -5,3 +5,5 @@
 
 # ASMR网站
 DOMAIN-SUFFIX,asmr.one
+# doi文献标识
+DOMAIN-SUFFIX,doi.org
